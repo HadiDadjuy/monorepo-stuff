@@ -48,15 +48,12 @@
 
 ## 📦 Dependencies (Libraries / Requirements)
 <!-- 📚 List all newly added or updated libraries required for this change. -->
-- 
 
 ## ⚙️ Build / Run Dependencies
 <!-- 🏗️ List any build or runtime dependencies required for this change. -->
-- 
 
 ## 📄 Documents / References
 <!-- 🔗 Include links to relevant design docs, API docs, diagrams, Confluence pages, or related tasks. -->
-- 
 
 ## 🧪 Testing
 <!-- 🧩 Select all testing methods performed. -->
@@ -67,11 +64,9 @@
 
 ### Evidence
 <!-- 🔗 Provide links, transaction hashes, screenshots, logs, or commands run to verify changes. -->
-- 
 
 ## 👀 Reviewer Notes
 <!-- ⚠️ Call out areas reviewers should pay extra attention to, such as edge cases, follow-ups, or environment considerations. -->
-- 
 
 ## ✅ Author Confirmation
 <!-- ✔️ Confirm that all required steps are done before requesting review. -->
