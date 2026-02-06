@@ -75,6 +75,6 @@
 
 ## ✅ Author Confirmation
 <!-- ✔️ Confirm that all required steps are done before requesting review. -->
-- [ ] Commits follow mono-repo commit conventions
+- [ ] Commits follow [mono-repo commit conventions](https://docs.nxbo.ir/pages/viewpage.action?pageId=5374786&spaceKey=TECH&title=Conventional%2BCommit)
 - [ ] Changes are scoped and production-ready
 - [ ] Tests and documentation updated where applicable
